@@ -1,9 +1,13 @@
 import { greeting } from "../../portfolio";
-import imageRight from "../../assets/img/avatar.png"
+// import imageRight from "../../assets/img/avatar.png"
+import FeelingProud from "./FeelingProud";
+
 
 const Greeting = () => {
+  
+
   return (
-    <section id="home" className="pt-36 dark:bg-dark">
+    <section id="home" className="pt-16 dark:bg-dark">
       <div className="container">
         <div className="flex flex-wrap">
         {/* hero left */}
@@ -30,7 +34,7 @@ const Greeting = () => {
 
           {/* hero right */}
           <div className="w-full self-center px-4 lg:w-1/2">
-            <div className="relative lg:right-0">
+            {/* <div className="relative lg:right-0">
               <img src={imageRight} alt="the has sling slash" className="max-w-full mx-auto  "/>
               <span className="absolute -bottom-6 -z-10 left-1/2 -translate-x-1/2 md:scale-125 md:bottom-10">
                 <svg
@@ -46,7 +50,8 @@ const Greeting = () => {
                   />
                 </svg>
               </span>
-            </div>
+            </div> */}
+            <FeelingProud />
           </div>
           
         </div>

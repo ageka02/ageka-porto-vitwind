@@ -1,7 +1,7 @@
 import { greeting } from "../../portfolio";
 
 const About = () => {
-  return <section id="about" className="pt-36 pb-32 dark:bg-dark">
+  return <section id="about" className="pt-20 pb-32 dark:bg-dark">
   <div className="container">
     <div className="flex flex-wrap">
       <div className="mb-10 w-full px-4 lg:w-1/2">
