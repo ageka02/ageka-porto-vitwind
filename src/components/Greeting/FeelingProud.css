@@ -5,100 +5,100 @@
 
 @keyframes eyeb {
   0% {
-    transform: translateY(-10);
     -ms-transform: translateY(-10);
     -moz-transform: translateY(-10);
+    transform: translateY(-10);
   }
 
   25% {
-    transform: translateY(0px);
-    -ms-transform: translateY(0px);
     -moz-transform: translateY(0px);
+    -ms-transform: translateY(0px);
+    transform: translateY(0px);
   }
 
   75% {
-    transform: translateY(0px);
-    -moz-transform: translateY(0px);
     -ms-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    transform: translateY(0px);
   }
 
   100% {
-    transform: translateY(10);
-    -moz-transform: translateY(10);
     -ms-transform: translateY(10);
+    -moz-transform: translateY(10);
+    transform: translateY(10);
   }
 }
 
 #mouth {
-  transform: translateY(-5px);
-  -ms-transform: translateY(-5px);
   -moz-transform: translateY(-5px);
+  -ms-transform: translateY(-5px);
+  transform: translateY(-5px);
   animation: mouth 5s linear infinite;
 }
 
 @keyframes mouth {
   0% {
-    transform: translateY(-10);
-    -ms-transform: translateY(-10);
     -moz-transform: translateY(-10);
+    -ms-transform: translateY(-10);
+    transform: translateY(-10);
   }
 
   25% {
-    transform: translateY(0px);
-    -ms-transform: translateY(0px);
     -moz-transform: translateY(0px);
+    -ms-transform: translateY(0px);
+    transform: translateY(0px);
   }
 
   75% {
-    transform: translateY(0px);
-    -moz-transform: translateY(0px);
     -ms-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    transform: translateY(0px);
   }
 
   100% {
-    transform: translateY(10);
-    -moz-transform: translateY(10);
     -ms-transform: translateY(10);
+    -moz-transform: translateY(10);
+    transform: translateY(10);
   }
 }
 
 #eyey2 {
-  transform: translateX(-2px);
-  -moz-transform: translateX(-2px);
   -ms-transform: translateX(-2px);
+  -moz-transform: translateX(-2px);
+  transform: translateX(-2px);
   animation: eyey2 4s linear infinite;
 }
 
 @keyframes eyey2 {
   0% {
-    transform: translateX(-2);
-    -ms-transform: translateX(-2);
     -moz-transform: translateX(-2);
+    -ms-transform: translateX(-2);
+    transform: translateX(-2);
   }
 
   25% {
-    transform: translateX(2px);
-    -moz-transform: translateX(2px);
     -ms-transform: translateX(2px);
+    -moz-transform: translateX(2px);
+    transform: translateX(2px);
   }
 
   75% {
-    transform: translateX(-2px);
-    -ms-transform: translateX(-2px);
     -moz-transform: translateX(-2px);
+    -ms-transform: translateX(-2px);
+    transform: translateX(-2px);
   }
 
   100% {
-    transform: translateX(2);
-    -ms-transform: translateX(2);
     -moz-transform: translateX(2);
+    -ms-transform: translateX(2);
+    transform: translateX(2);
   }
 }
 
 #notebook {
-  transform: translateY(-4px);
-  -moz-transform: translateY(-4px);
   -ms-transform: translateY(-4px);
+  -moz-transform: translateY(-4px);
+  transform: translateY(-4px);
   animation: notebook 6s linear infinite;
 }
 
@@ -127,27 +127,27 @@
 
 @keyframes legs {
   0% {
-    transform: translateY(-10);
-    -ms-transform: translateY(-10);
     -moz-transform: translateY(-10);
+    -ms-transform: translateY(-10);
+    transform: translateY(-10);
   }
 
   25% {
-    transform: translateY(0px);
-    -ms-transform: translateY(0px);
     -moz-transform: translateY(0px);
+    -ms-transform: translateY(0px);
+    transform: translateY(0px);
   }
 
   75% {
-    transform: translateY(0px);
-    -moz-transform: translateY(0px);
     -ms-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    transform: translateY(0px);
   }
 
   100% {
-    transform: translateY(10);
-    -moz-transform: translateY(10);
     -ms-transform: translateY(10);
+    -moz-transform: translateY(10);
+    transform: translateY(10);
   }
 }
 
@@ -157,82 +157,82 @@
 
 @keyframes pe {
   0% {
-    transform: rotateX(2deg);
-    -ms-transform: rotateX(2deg);
     -moz-transform: rotateX(2deg);
+    -ms-transform: rotateX(2deg);
+    transform: rotateX(2deg);
   }
 }
 
 #shirt {
-  transform: translateY(-9px);
-  -ms-transform: translateY(-9px);
   -moz-transform: translateY(-9px);
+  -ms-transform: translateY(-9px);
+  transform: translateY(-9px);
   animation: shirt 6s infinite;
 }
 
 @keyframes shirt {
   0% {
-    transform: translateY(-10);
-    -ms-transform: translateY(-10);
     -moz-transform: translateY(-10);
+    -ms-transform: translateY(-10);
+    transform: translateY(-10);
   }
 
   25% {
-    transform: translateY(0px);
-    -ms-transform: translateY(0px);
     -moz-transform: translateY(0px);
+    -ms-transform: translateY(0px);
+    transform: translateY(0px);
   }
 
   75% {
-    transform: translateY(0px);
-    -moz-transform: translateY(0px);
     -ms-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    transform: translateY(0px);
   }
 
   100% {
-    transform: translateY(10);
-    -moz-transform: translateY(10);
     -ms-transform: translateY(10);
+    -moz-transform: translateY(10);
+    transform: translateY(10);
   }
 }
 
 #tshirt {
-  transform: translateY(-9px);
-  -ms-transform: translateY(-9px);
   -moz-transform: translateY(-9px);
+  -ms-transform: translateY(-9px);
+  transform: translateY(-9px);
   animation: tshirt 6s infinite;
 }
 
 @keyframes tshirt {
   0% {
-    transform: translateY(-10);
-    -ms-transform: translateY(-10);
     -moz-transform: translateY(-10);
+    -ms-transform: translateY(-10);
+    transform: translateY(-10);
   }
 
   25% {
-    transform: translateY(0px);
-    -ms-transform: translateY(0px);
     -moz-transform: translateY(0px);
+    -ms-transform: translateY(0px);
+    transform: translateY(0px);
   }
 
   75% {
-    transform: translateY(0px);
-    -moz-transform: translateY(0px);
     -ms-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    transform: translateY(0px);
   }
 
   100% {
-    transform: translateY(10);
-    -moz-transform: translateY(10);
     -ms-transform: translateY(10);
+    -moz-transform: translateY(10);
+    transform: translateY(10);
   }
 }
 
 #head {
-  transform: translateY(-9px);
-  -ms-transform: translateY(-9px);
   -moz-transform: translateY(-9px);
+  -ms-transform: translateY(-9px);
+  transform: translateY(-9px);
   animation: head 6s infinite;
 }
 
@@ -260,48 +260,48 @@
 
 @keyframes ears {
   0% {
-    transform: translateY(-10);
-    -ms-transform: translateY(-10);
     -moz-transform: translateY(-10);
+    -ms-transform: translateY(-10);
+    transform: translateY(-10);
   }
 
   25% {
-    transform: translateY(0px);
-    -ms-transform: translateY(0px);
     -moz-transform: translateY(0px);
+    -ms-transform: translateY(0px);
+    transform: translateY(0px);
   }
 
   75% {
-    transform: translateY(0px);
-    -moz-transform: translateY(0px);
     -ms-transform: translateY(0px);
+    -moz-transform: translateY(0px);
+    transform: translateY(0px);
   }
 
   100% {
-    transform: translateY(10);
-    -moz-transform: translateY(10);
     -ms-transform: translateY(10);
+    -moz-transform: translateY(10);
+    transform: translateY(10);
   }
 }
 
 #brows {
-  animation: brows 6.1s linear infinite;
+  animation: brows 6s linear infinite;
 }
 
 @keyframes brows {
   0% {
-    transform: scale(0.96);
+    transform: scale(0.985);
   }
 
   25% {
-    transform: scale(1);
+    transform: scale(0.96);
   }
 
   75% {
-    transform: scale(1);
+    transform: scale(0.96);
   }
 
   100% {
-    transform: scale(0.96);
+    transform: scale(0.985);
   }
 }
