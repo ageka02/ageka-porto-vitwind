@@ -8,7 +8,7 @@ const MainPages = () => {
   return (
     <>
       <Header/>
-      <Greeting/>
+      <Greeting />
       <About/>
     </>
   );

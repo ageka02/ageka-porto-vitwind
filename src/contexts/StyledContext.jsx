@@ -1,8 +1,8 @@
 import { createContext } from "react";
 
-const StyleContext = createContext();
-
-export const StyleProvider = StyleContext.Provider
-export const StyleConsumer = StyleContext.Consumer
+const StyleContext = createContext({
+      isDark: "light",
+      changeTheme: "",
+});
 
 export default StyleContext;

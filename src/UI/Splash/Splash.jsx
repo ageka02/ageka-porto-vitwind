@@ -1,7 +1,8 @@
 import { useState } from "react";
-import classess from "./Splash.module.css";
 import { Navigate } from "react-router-dom";
 import { greeting } from "../../portfolio";
+
+import classess from "./Splash.module.css";
 
 function AnimatedSplash() {
   return (
@@ -19,7 +20,7 @@ function AnimatedSplash() {
       </div>
       <div style={{ paddingTop: "60px", textAlign: "center" }}>
         <h1 className={classess.splashText}>{greeting.username}</h1>
-        <p className="underline">{greeting.job}</p>
+        <p className="font-medium text-secondary">{greeting.job}</p>
       </div>
     </div>
   );
