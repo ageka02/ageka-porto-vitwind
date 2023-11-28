@@ -1,6 +1,6 @@
 const greeting = {
-  username: "John Doel Sumbang",
-  initialName: "JDS",  
+  username: "Adi Ginanjar Kusuma",
+  initialName: "AGK",  
   title: "Hi all, I'm",
   job: "Front End Developer",
   job2: "BI/Data Analyst",
