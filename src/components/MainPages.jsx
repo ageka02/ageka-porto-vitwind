@@ -2,6 +2,7 @@
 import Header from "./Header/Header";
 import Greeting from "./Greeting/Greeting";
 import About from "./About/About";
+import Portfoliopages from "./Portfolio/PortfolioPages";
 
 const MainPages = () => {
   
@@ -10,6 +11,7 @@ const MainPages = () => {
       <Header/>
       <Greeting />
       <About/>
+      <Portfoliopages/>
     </>
   );
 };

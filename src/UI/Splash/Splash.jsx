@@ -18,7 +18,7 @@ function AnimatedSplash() {
           <div className={classess.ball}></div>
         </div>
       </div>
-      <div style={{ paddingTop: "60px", textAlign: "center" }}>
+      <div className=" text-center py-14 my-52 lg:my-16">
         <h1 className={classess.splashText}>{greeting.username}</h1>
         <p className="font-medium text-secondary">{greeting.job}</p>
       </div>

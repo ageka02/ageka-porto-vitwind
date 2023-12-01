@@ -6,8 +6,8 @@ html {
   scroll-behavior: smooth;
 }
 .navbar-fixed {
-  @apply fixed z-[9999] bg-white bg-opacity-70 backdrop-blur-sm dark:bg-dark dark:bg-opacity-50;  
-  box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.2);
+  @apply fixed z-[9999] bg-white bg-opacity-70 backdrop-blur-md dark:bg-dark dark:bg-opacity-50;  
+  box-shadow: 0 1px 30px 0 rgba(0, 0, 0, 0.2);
 }
 
 .hamburger-line {
