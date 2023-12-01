@@ -3,13 +3,13 @@ import imagesFrontEnd from "../../assets/img/front-end.jfif";
 import imagesAnalyst from "../../assets/img/analyst.jfif";
 
 const About = () => {
-  return <section id="about" className="pt-20 pb-32 bg-anti-flash-white dark:bg-dark">
+  return <section id="about" className="pt-20 pb-32 dark:bg-dark">
   <div className="container">
 
     <div className="w-full px-4">
       <div className="mx-auto mb-20 max-w-xl text-center">
-        <h4 className="mb-2 text-lg font-bold uppercase text-purple">{"About Me"}</h4>
-        <h2 className="text-3xl font-semibold text-dark lg:text-4xl">{"Here's What I do"}</h2>
+        <h4 className="mb-2 text-lg font-semibold uppercase text-purple">{"About Me"}</h4>
+        <h2 className="text-3xl font-bold text-dark lg:text-4xl">{"Here's What I do"}</h2>
       </div>
     </div>
 
