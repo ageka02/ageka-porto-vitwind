@@ -3,7 +3,7 @@ import imagesFrontEnd from "../../assets/img/front-end.jfif";
 import imagesAnalyst from "../../assets/img/analyst.jfif";
 
 const About = () => {
-  return <section id="about" className="pt-20 pb-32 bg-anti-flash-white dark:bg-dark">
+  return <section id="about" className="pt-20 pb-32 dark:bg-dark">
   <div className="container">
 
     <div className="w-full px-4">
